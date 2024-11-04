@@ -1117,7 +1117,7 @@ A Subset for __Architecture and Infrastructure__
       * [redux-actions](https://www.npmjs.com/package/redux-actions)
       * [flux-standard-action](https://www.npmjs.com/package/flux-standard-action)
       * [topologically-combine-reducers](https://www.npmjs.com/package/topologically-combine-reducers)
-    * Asnyc Actions
+    * Async Actions
       * [redux-thunk](https://www.npmjs.com/package/redux-thunk) + [redux-promise-middleware](https://www.npmjs.com/package/redux-promise-middleware) + [redux-debounced](https://www.npmjs.com/package/redux-debounced)
       * [redux-observable](https://www.npmjs.com/package/redux-observable)
       * [redux-saga](https://github.com/redux-saga/redux-saga)
@@ -1125,7 +1125,7 @@ A Subset for __Architecture and Infrastructure__
       * [redux-rest-resource](https://www.npmjs.com/package/redux-rest-resource)  / [redux-json-api](https://www.npmjs.com/package/redux-json-api) / [redux-api](https://www.npmjs.com/package/redux-api)
     * State
       * [normalizr](https://www.npmjs.com/package/normalizr)
-      * Immutalbe - see _[Universal Utility Libraries](#universal-utility-libraries) > Standard Library Extensions > FP > Immutable_
+      * Immutable - see _[Universal Utility Libraries](#universal-utility-libraries) > Standard Library Extensions > FP > Immutable_
       * [redux-immutable](https://www.npmjs.com/package/redux-immutable)
       * [redux-persist](https://www.npmjs.com/package/redux-persist)
       * [redux-undo](https://www.npmjs.com/package/redux-undo)
@@ -1343,7 +1343,7 @@ A Subset for __Architecture and Infrastructure__
     [React Tooltip](https://www.npmjs.com/package/react-tooltip) / [Tether Tooltip](http://github.hubspot.com/tooltip/docs/welcome/) / [Tippy.js](https://atomiks.github.io/tippyjs/)
 * Tour
   * [React Joyride](https://www.npmjs.com/package/react-joyride) / [Intro.js](http://introjs.com/) / [tether-shepherd](https://www.npmjs.com/package/tether-shepherd) / [Chardin.js](https://www.npmjs.com/package/chardin.js)
-* Accessiblity
+* Accessibility
   * [React HotKeys](https://www.npmjs.com/package/react-hotkeys)
   * [React A11y](https://www.npmjs.com/package/react-a11y)
 
@@ -1735,7 +1735,7 @@ A Subset for __Architecture and Infrastructure__
 * Storage
   * NOSQL
     * Redis Client - [ioredis](https://github.com/luin/ioredis)
-    * MongoDB ORM - [Mongooose](http://mongoosejs.com/)
+    * MongoDB ORM - [Mongoose](http://mongoosejs.com/)
     * DynamoDB ORM - [vogels](https://www.npmjs.com/package/vogels)
     * HBase Client - [hbase](https://www.npmjs.com/package/hbase)
   * RDS
